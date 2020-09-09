@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Zooming.Scaling.Properties
+namespace Loading.Panel.Properties
 {
 
 
